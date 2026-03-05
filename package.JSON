@@ -1,10 +1,10 @@
 {
-{
   "name": "telegram-web-clone",
   "version": "1.0.0",
   "description": "Fullstack Telegram Client",
   "main": "server.js",
   "scripts": {
+    "install": "npm install",
     "start": "node server.js"
   },
   "dependencies": {
